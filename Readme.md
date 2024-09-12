@@ -1,3 +1,6 @@
+THere ARE wrong API keys in .env .If  you want you can generate your api keys  https://ai.google.dev/gemini-api/docs/api-key
+
+
 This project is a Streamlit application that uses a trained TensorFlow model to recognize plant diseases from uploaded images. It also provides information about the detected diseases using a ChatGPT-powered bot.
 Features
 
