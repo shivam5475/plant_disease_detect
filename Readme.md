@@ -8,7 +8,7 @@ Provide detailed information about detected diseases using a language model
 Installation
 
 Clone the repository:
-Copygit clone https://github.com/yourusername/plant-disease-recognition.git
+Copygit clone (https://github.com/shivam5475/plant_disease_detect)
 cd plant-disease-recognition
 
 Install the required packages:
