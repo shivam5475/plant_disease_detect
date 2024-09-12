@@ -16,6 +16,7 @@ setup(
         "langchain-google-genai",
         "google-generativeai",
         "chromadb",
+        "langchain_community",
     ],
     entry_points={
         "console_scripts": [
