@@ -1,0 +1,111 @@
+Apple__Apple_scab
+- Ancient Indian technique: Apply a mixture of 1 part cow urine to 10 parts water as a foliar spray. Cow urine has antifungal properties that can help control the spread of the disease.
+- Modern medical solution: Use fungicides like captan, sulfur, or chlorothalonil. Remove and destroy infected leaves and fruits, and improve air circulation around the trees.
+
+Apple__Black_rot
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antifungal properties.
+- Modern medical solution: Use fungicides like thiophanate-methyl or chlorothalonil. Remove and destroy infected fruits and leaves, and improve air circulation around the trees.
+
+Apple__Cedar_apple_rust
+- Ancient Indian technique: Apply a mixture of 1 part cow dung to 10 parts water as a foliar spray. Cow dung has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves and fruits, and improve air circulation around the trees.
+
+Blueberry__healthy
+- No treatment necessary. Blueberries are generally a healthy crop and do not require treatment for diseases.
+
+Cherry(including_sour)__Powdery_mildew
+- Ancient Indian technique: Mix 1 tablespoon of turmeric powder with 1 liter of water and spray on the affected areas. Turmeric has antifungal properties.
+- Modern medical solution: Use fungicides like sulfur or chlorothalonil. Remove and destroy infected leaves and fruits, and improve air circulation around the trees.
+
+Cherry(including_sour)__healthy
+- No treatment necessary. Cherries are generally a healthy crop and do not require treatment for diseases.
+
+Corn(maize)__Cercospora_leaf_spot
+- Ancient Indian technique: Apply a mixture of 1 part cow urine to 10 parts water as a foliar spray. Cow urine has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Corn(maize)__Gray_leaf_spot
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antifungal properties.
+- Modern medical solution: Use fungicides like thiophanate-methyl or chlorothalonil. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Corn(maize)__Northern_Leaf_Blight
+- Ancient Indian technique: Mix 1 tablespoon of turmeric powder with 1 liter of water and spray on the affected areas. Turmeric has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Grape__Black_rot
+- Ancient Indian technique: Apply a mixture of 1 part cow urine to 10 parts water as a foliar spray. Cow urine has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected fruits and leaves, and improve air circulation around the vines.
+
+Grape__Esca(Black_Measles)
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antifungal properties.
+- Modern medical solution: Use fungicides like thiophanate-methyl or chlorothalonil. Remove and destroy infected fruits and leaves, and improve air circulation around the vines.
+
+Grape__Leaf_blight(Isariopsis_Leaf_Spot)
+- Ancient Indian technique: Apply a mixture of 1 part cow dung to 10 parts water as a foliar spray. Cow dung has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the vines.
+
+Orange__Haunglongbing(Citrus_greening)
+- Ancient Indian technique: Mix 1 tablespoon of turmeric powder with 1 liter of water and spray on the affected areas. Turmeric has antifungal properties.
+- Modern medical solution: Use insecticides like imidacloprid or dinotefuran to control the Asian citrus psyllid, which transmits the disease. Remove and destroy infected trees.
+
+Peach__Bacterial_spot
+- Ancient Indian technique: Apply a mixture of 1 part cow urine to 10 parts water as a foliar spray. Cow urine has antibacterial properties.
+- Modern medical solution: Use bactericides like copper-based products or streptomycin. Remove and destroy infected fruits and leaves, and improve air circulation around the trees.
+
+Pepper(bell)__Bacterial_spot
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antibacterial properties.
+- Modern medical solution: Use bactericides like copper-based products or streptomycin. Remove and destroy infected fruits and leaves, and improve air circulation around the plants.
+
+Potato__Early_blight
+- Ancient Indian technique: Apply a mixture of 1 part cow dung to 10 parts water as a foliar spray. Cow dung has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Potato__Late_blight
+- Ancient Indian technique: Mix 1 tablespoon of turmeric powder with 1 liter of water and spray on the affected areas. Turmeric has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Raspberry__healthy
+- No treatment necessary. Raspberries are generally a healthy crop and do not require treatment for diseases.
+
+Soybean__healthy
+- No treatment necessary. Soybeans are generally a healthy crop and do not require treatment for diseases.
+
+Squash__Powdery_mildew
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antifungal properties.
+- Modern medical solution: Use fungicides like sulfur or chlorothalonil. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Strawberry__Leaf_scorch
+- Ancient Indian technique: Apply a mixture of 1 part cow urine to 10 parts water as a foliar spray. Cow urine has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Bacterial_spot
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antibacterial properties.
+- Modern medical solution: Use bactericides like copper-based products or streptomycin. Remove and destroy infected fruits and leaves, and improve air circulation around the plants.
+
+Tomato__Early_blight
+- Ancient Indian technique: Apply a mixture of 1 part cow dung to 10 parts water as a foliar spray. Cow dung has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Late_blight
+- Ancient Indian technique: Mix 1 tablespoon of turmeric powder with 1 liter of water and spray on the affected areas. Turmeric has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Leaf_Mold
+- Ancient Indian technique: Apply a mixture of 1 part cow urine to 10 parts water as a foliar spray. Cow urine has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Septoria_leaf_spot
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Spider_mites Two-spotted_spider_mite
+- Ancient Indian technique: Mix 1 tablespoon of neem oil with 1 liter of water and spray on the affected areas. Neem oil has insecticidal properties that can help control the spread of the mites.
+- Modern medical solution: Use insecticides like pyridaben or fenpyroximate. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Target_Spot
+- Ancient Indian technique: Apply a mixture of 1 part cow dung to 10 parts water as a foliar spray. Cow dung has antifungal properties.
+- Modern medical solution: Use fungicides like chlorothalonil or copper-based products. Remove and destroy infected leaves, and improve air circulation around the plants.
+
+Tomato__Tomato_mosaic_virus
+- Ancient Indian technique: Mix 1 tablespoon of turmeric powder with 1 liter of water and spray on the affected areas. Turmeric has antiviral properties.
+- Modern medical solution: Use insecticides like imidacloprid or dinotefuran to control the aphids, which transmit the virus. Remove and destroy infected plants.

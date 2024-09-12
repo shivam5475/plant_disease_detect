@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+Pillow
+keras
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
